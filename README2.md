@@ -13,8 +13,8 @@ This application quizzes folx on thier knowlegde of the prolific artist Prince.
        *He was awarded countless awards including Grammys, World Soundtrack Awards, Rock and Roll Hall of Fame Award,  
        MTV Awards, BET Awards, Soul Train Awards, Brit Awards, and many more.
        
-     ![Screen Shot 2023-01-05 at 4 57 57 PM](https://user-images.githubusercontent.com/111613075/210887897-847c34d5-7ddb-48c8-8d24-7894926fabc9.png)
-
+## Image of Prince ##
+![Screen Shot 2023-01-05 at 4 57 57 PM](https://user-images.githubusercontent.com/111613075/210888048-0c006131-1329-4cbe-b3b4-cc34c55da0ff.png)
 
 ## Technologies Used ##
 React    
