@@ -1,6 +1,6 @@
 # Purple Rain React Quiz App #
 
-This application quizzes folx on thier knowlegde of the prolific artist Prince.
+This application quizzes folx on thier knowledge of the prolific artist Prince.
 
 ## Background on Prince ##
 
