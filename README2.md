@@ -33,5 +33,5 @@ Deployed app address here
     * Links to other related sites 
     * Utilizing API for quiz questions 
     * Improve responsiveness and dynamic design    
-    * Add landing page and supplemental pages
+    * Add landing page and supplemental "pages"
     
