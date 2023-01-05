@@ -1,7 +1,7 @@
 import "./styles.css";
 import { useState } from "react";
 import { CssBaseline, Box, Container } from "@mui/material";
-import { lightBlue, purple } from "@mui/material/colors";
+import { purple } from "@mui/material/colors";
 import QuestionCard from "./QuestionCard";
 import Result from "./Result";
 import questions from "./data/questions";
@@ -34,7 +34,7 @@ function App() {
           backgroundColor: purple[800],
           height: "100vh",
           display: "flex",
-          alignItems: "center"
+          alignItems: "center",
         }}
       >
         <Container maxWidth="sm">
